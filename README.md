@@ -46,10 +46,9 @@ I am a Computer Science graduate with strong foundations in programming, full-st
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VEERESH1219&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEERESH1219&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VEERESH1219&theme=dracula&hide_border=false" width="100%" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=VEERESH1219&theme=dark&hide_border=false" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VEERESH1219&theme=dark&hide_border=false" width="100%" />
 </div>
 
 ---

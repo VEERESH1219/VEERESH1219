@@ -1,75 +1,32 @@
-# 👋 Hello! I'm Munjuluri Veereshkumar
+# 💫 About Me:
+Hi 👋, I'm Veeresh Kumar Munjuluri  <br>🚀 Full Stack Developer | Generative AI Enthusiast | Systems Engineer  <br><br>I am a Computer Science graduate with strong foundations in programming, full-stack development, and system-level engineering. I enjoy building scalable backend systems, real-time applications, and AI-powered solutions.<br><br>🔭 Currently working on Full Stack + AI-driven systems  <br>🌱 Exploring Generative AI, Cloud Systems & Advanced Backend Architecture  <br>⚡ Passionate about building reliable, crash-proof, production-ready systems  <br>📍 Visakhapatnam, Andhra Pradesh, India
 
-🎓 **B.Tech in Computer Science and Engineering (2021-2025)**  
-📍 Andhra Pradesh, India  
-📧 [veereshmunjuluri1219@gmail.com](mailto:veereshmunjuluri1219@gmail.com)
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/munjuluriveeresh12193) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:veereshmunjuluri1219@gmail.com) 
 
-## 🚀 About Me
-
-I'm a passionate and aspiring software developer driven by curiosity and a constant desire to learn. I have hands-on experience building projects in **Java**, **Python**, **HTML/CSS**, and have dabbled with **machine learning** and **database systems**. I enjoy exploring innovative technologies and applying them in real-world problem-solving scenarios.
-
-Currently expanding my knowledge in cloud platforms, cybersecurity, and adaptive deep learning networks.
-
----
-
-## 💻 Tech Stack
-
-- **Languages:** C, Core Java, Python  
-- **Web:** HTML5, CSS3  
-- **Tools & Frameworks:** Salesforce CRM, Git  
-- **Concepts:** DBMS, Basic Machine Learning  
-- **Platforms:** Trailhead, TCS iON
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VEERESH1219&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VEERESH1219&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VEERESH1219&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=VEERESH1219&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧠 Projects
+# 💫 About Me:
+Hi 👋, I'm Veeresh Kumar Munjuluri  <br>🚀 Full Stack Developer | Generative AI Enthusiast | Systems Engineer  <br><br>I am a Computer Science graduate with strong foundations in programming, full-stack development, and system-level engineering. I enjoy building scalable backend systems, real-time applications, and AI-powered solutions.<br><br>🔭 Currently working on Full Stack + AI-driven systems  <br>🌱 Exploring Generative AI, Cloud Systems & Advanced Backend Architecture  <br>⚡ Passionate about building reliable, crash-proof, production-ready systems  <br>📍 Visakhapatnam, Andhra Pradesh, India
 
-- 🔢 **Core Java Calculator** – A simple calculator application built using object-oriented principles.  
-- 🧩 **CSS Puzzle Interface** – An interactive puzzle design leveraging CSS and backend logic.  
-- 🚇 **Passenger Flow Prediction in Metro Systems** – Used Python and Adaptive Feature Fusion Networks to predict origin-destination patterns in smart transit systems.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/munjuluriveeresh12193) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:veereshmunjuluri1219@gmail.com) 
 
-## 📜 Certifications
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VEERESH1219&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VEERESH1219&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VEERESH1219&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=VEERESH1219&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🏅 Salesforce Developer – Trailhead  
-- 🛡️ TCS Cyber Security Internship  
-- 🎓 TCS iON Career Edge
-
----
-
-## 🧩 Extra Involvements
-
-- 🤝 Active Member of Rotaract Club  
-- 🎤 Volunteered in college-level tech and cultural events  
-- 🏅 Former House Captain in high school  
-
----
-
-## 📈 GitHub Stats
-
-![Veeresh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veereshkumar1219&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veereshkumar1219&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=veereshkumar1219&theme=radical)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Salesforce Development  
-- Cybersecurity Principles using AIML  
-- Real-world ML Model Deployment  
-
----
-
-## 📫 Let's Connect
-
-If you're a recruiter or developer looking to collaborate or discuss potential opportunities, feel free to reach out!
-
-📧 [veereshmunjuluri1219@gmail.com](mailto:veereshmunjuluri1219@gmail.com)
-
----
-
-⭐ *Thanks for visiting my profile! Let's build the future together.*

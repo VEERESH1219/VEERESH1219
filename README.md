@@ -47,6 +47,12 @@ I am a Computer Science graduate with strong foundations in programming, full-st
 ### 📊 GitHub Statistics & Engagement
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VEERESH1219/VEERESH1219/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VEERESH1219/VEERESH1219/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VEERESH1219/VEERESH1219/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VEERESH1219&theme=dracula&hide_border=false" width="100%" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VEERESH1219&theme=dark&hide_border=false" width="100%" />

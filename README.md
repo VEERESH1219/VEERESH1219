@@ -35,12 +35,12 @@ I am a Computer Science graduate with strong foundations in programming, full-st
 
 ### 🚀 Key Projects
 
-- **🚇 Passenger Flow Prediction in Metro Systems**  
-  *Adaptive Feature Fusion Networks for smart transit patterns.*
-- **🏍️ Detection of Helmetless Biker & Number Plate**  
-  *AI/ML based safety surveillance system.*
-- **🚆 Railway Reservation System**  
-  *Robust backend system built with Java.*
+- **👁️ VaidyaDrishti AI (Medical Scanner)**  
+  *Intelligent Medical Vision Intelligence & Prescription Reader system with 12x speed improvement.*
+- **📜 Certificates**  
+  *Automated certificate generation and preview system for participants and events.*
+- **🏠 Real Estate**  
+  *Modern real estate platform for property listings and management.*
 
 ---
 

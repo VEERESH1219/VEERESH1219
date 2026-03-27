@@ -53,19 +53,14 @@ I am a Computer Science graduate with strong foundations in programming, full-st
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VEERESH1219&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%" />
-</div>
-
----
-
 ### 📊 GitHub Statistics & Engagement
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VEERESH1219&show_icons=true&theme=dark&hide_border=false&cache_seconds=1800" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEERESH1219&layout=compact&theme=dark&hide_border=false&cache_seconds=1800" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VEERESH1219&theme=dracula" width="100%" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VEERESH1219&theme=dracula" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VEERESH1219&theme=dracula" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VEERESH1219&theme=dracula" width="32%" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VEERESH1219&theme=dark&hide_border=false" width="100%" />
   <br/>

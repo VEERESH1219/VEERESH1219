@@ -1,14 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Veeresh%20Kumar%20Munjuluri&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&width=500&lines=Full+Stack+Developer;Generative+AI+Enthusiast;Systems+Engineer;Building+Production-Ready+Systems" alt="Typing SVG" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&width=500&lines=Full+Stack+Developer;Generative+AI+Enthusiast;Systems+Engineer;Building+Production-Ready+Systems" alt="Typing SVG" />
+  </p>
 
   <br/>
 
   <p align="center">
     <a href="https://linkedin.com/in/munjuluriveeresh12193"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:veereshmunjuluri1219@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-    <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" alt="Open to Work" />
+    
   </p>
 </div>
 
@@ -54,7 +56,7 @@ I am a Computer Science graduate with strong foundations in programming, full-st
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VEERESH1219&theme=darkhub&no-frame=true&row=1&margin-w=10" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VEERESH1219&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%" />
 </div>
 
 ---
@@ -62,8 +64,8 @@ I am a Computer Science graduate with strong foundations in programming, full-st
 ### 📊 GitHub Statistics & Engagement
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VEERESH1219&show_icons=true&theme=dark&hide_border=false" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEERESH1219&layout=compact&theme=dark&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VEERESH1219&show_icons=true&theme=dark&hide_border=false&cache_seconds=1800" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VEERESH1219&layout=compact&theme=dark&hide_border=false&cache_seconds=1800" width="49%" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VEERESH1219&theme=dark&hide_border=false" width="100%" />
   <br/>
@@ -78,7 +80,7 @@ I am a Computer Science graduate with strong foundations in programming, full-st
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" />
   <br/>
   <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=VEERESH1219&icon=5&color=6" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=VEERESH1219&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 </div>
 

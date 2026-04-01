@@ -47,9 +47,9 @@ I am a Computer Science graduate with strong foundations in programming, full-st
   *Automated certificate generation and preview system for participants and events.*  
   [GitHub](https://github.com/VEERESH1219/certificates)
 
-- **🏠 Real Estate**  
-  *Modern real estate platform for property listings and management.*  
-  [GitHub](https://github.com/VEERESH1219/real_estate)
+- **🏍️ Helmetless Biker & Number Plate Detection**  
+  *Comprehensive automated system for detecting helmetless bikers and capturing their number plates using deep learning.*  
+  [GitHub](https://github.com/VEERESH1219/Comprehensive-Automated-System-for-Helmetless-Biker-and-Number-Plate-Detection)
 
 ---
 

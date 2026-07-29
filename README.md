@@ -44,15 +44,25 @@ I am a Software Engineer with strong foundations in programming, full-stack deve
 
 ```mermaid
 graph LR
-    Client([Client Application]) -->|API Requests| K8s[Kubernetes Cluster]
+    Client([Client Application]) -->|API Requests| API
     
-    subgraph K8s [Kubernetes Environment]
+    subgraph K8sEnv [Kubernetes Environment]
         API[Python Backend API] 
         Cache[(Redis Cache)]
         API <-->|High-Speed I/O| Cache
     end
     
     API <-->|Persistence & Auth| Supabase[(Supabase)]
+    
+    classDef client fill:#8b5cf6,stroke:#fff,stroke-width:2px,color:#fff
+    classDef backend fill:#3776ab,stroke:#fff,stroke-width:2px,color:#fff
+    classDef cache fill:#dc382d,stroke:#fff,stroke-width:2px,color:#fff
+    classDef db fill:#3ecf8e,stroke:#fff,stroke-width:2px,color:#000
+    
+    class Client client
+    class API backend
+    class Cache cache
+    class Supabase db
 ```
 
 ---

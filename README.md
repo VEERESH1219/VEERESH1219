@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://linkedin.com/in/munjuluriveeresh12193"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:veereshmunjuluri1219@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://leetcode.com/VEERESH1219"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+    <a href="https://portfolio.12022004.xyz"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   </p>
 </div>
 
@@ -90,7 +90,7 @@ graph LR
   </picture>
   <br/>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=VEERESH1219&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=VEERESH1219.VEERESH1219&left_color=gray&right_color=blue&left_text=PROFILE%20VIEWS" alt="Profile Views" />
   </p>
 </div>
 

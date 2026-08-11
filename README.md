@@ -95,6 +95,8 @@ graph LR
 ### 📬 Let's Connect!
 *I'm always open to discussing system architecture, AI integrations, or exciting software engineering opportunities. Feel free to reach out!*
 
+**✉️ [Drop me an email!](mailto:veereshmunjuluri1219@gmail.com)** | **👔 [Connect on LinkedIn!](https://linkedin.com/in/munjuluriveeresh12193)**
+
 ---
 
 ### 📊 GitHub Statistics & Engagement

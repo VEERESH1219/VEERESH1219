@@ -37,6 +37,7 @@ I am a Software Engineer with strong foundations in programming, full-stack deve
 | **Database** | ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
 | **AI & Vision** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black) |
 | **Infrastructure & Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Concepts & Architecture**| ![REST APIs](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square) ![Microservices](https://img.shields.io/badge/-Microservices-E34F26?style=flat-square) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square) ![OOP](https://img.shields.io/badge/-OOP-8A2BE2?style=flat-square) |
 
 ---
 
@@ -69,6 +70,11 @@ graph LR
 
 ### 🚀 Key Projects
 
+- **🌾 KaAgriculture**  
+  *A digital agriculture platform designed to optimize farm management and data analytics.* (Feel free to update this description!)  
+  **Tech:** Python, React, Supabase (Update with your actual stack!)  
+  [![View Source](https://img.shields.io/badge/GitHub-View_Source-181717?style=flat-square&logo=github)](#)
+
 - **👁️ VaidyaDrishti AI (Medical Scanner)**  
   *Intelligent Medical Vision Intelligence & Prescription Reader system with 12x speed improvement.*  
   **Tech:** Python, Deep Learning, Computer Vision  
@@ -86,12 +92,17 @@ graph LR
 
 ---
 
+### 📬 Let's Connect!
+*I'm always open to discussing system architecture, AI integrations, or exciting software engineering opportunities. Feel free to reach out!*
+
+---
+
 ### 📊 GitHub Statistics & Engagement
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VEERESH1219&theme=dracula" width="100%" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VEERESH1219&theme=dark&hide_border=false" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VEERESH1219&theme=dracula&hide_border=false" width="100%" />
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VEERESH1219/VEERESH1219/output/github-contribution-grid-snake-dark.svg">

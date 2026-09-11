@@ -23,7 +23,7 @@ I am a Software Engineer with strong foundations in programming, full-stack deve
 - 🛠️ **Core Stack:** High-performance Python backends with Redis cache & Supabase
 - 🌱 **Currently Learning:** Advanced Backend Architecture, Event-Driven Systems & Go (Golang)
 - ⚡ **Passionate about:** Delivering reliable, clean, and production-ready code
-- 📍 **Based in:** Visakhapatnam, Andhra Pradesh, India
+- 📍 **Based in:** Hyderabad, Telangana, India.
 
 ---
 
@@ -102,7 +102,7 @@ graph LR
 ### 📊 GitHub Statistics & Engagement
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VEERESH1219&theme=dracula" width="100%" />
+  <img src="profile-summary-card-output/dracula/0-profile-details.svg" width="100%" alt="Profile Details Card (Run GitHub Action to Generate)" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VEERESH1219&theme=dracula&hide_border=false" width="100%" />
   <br/>

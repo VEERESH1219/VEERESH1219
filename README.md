@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:D4AF37&height=230&section=header&text=Veeresh%20Kumar%20Munjuluri&fontSize=46&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Agents%20%26%20Systems%20Architecture&descAlignY=58&descSize=18&descColor=F5DEB3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=230&section=header&text=Veeresh%20Kumar%20Munjuluri&fontSize=46&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Software+Engineer+%7C+AI+Agents+%26+Systems+Architecture&descAlignY=58&descSize=18&descColor=F5DEB3" width="100%"/>
 
 <img src="https://img.shields.io/badge/✨_PREMIUM_PROFILE-FFD700?style=for-the-badge&labelColor=0f0f0f&logoColor=black" alt="Premium Profile"/>
 
@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0f0f0f&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=3&width=100%"/>
 
 ## 💫&nbsp; About Me
 
@@ -44,7 +44,7 @@ Hyderabad, Telangana, India
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0f0f0f&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=3&width=100%"/>
 
 ## 💻&nbsp; Tech Stack
 
@@ -81,7 +81,7 @@ Hyderabad, Telangana, India
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0f0f0f&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=3&width=100%"/>
 
 ## 🏗️&nbsp; Typical System Architecture
 
@@ -108,7 +108,7 @@ graph LR
     class Supabase db
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0f0f0f&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=3&width=100%"/>
 
 ## 🚀&nbsp; Key Projects
 
@@ -159,7 +159,7 @@ Automated system for detecting helmetless bikers and capturing their number plat
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0f0f0f&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=3&width=100%"/>
 
 ## 📊&nbsp; GitHub Statistics & Engagement
 
@@ -182,7 +182,7 @@ Automated system for detecting helmetless bikers and capturing their number plat
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0f0f0f&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=3&width=100%"/>
 
 ## 📬&nbsp; Let's Connect!
 
@@ -195,8 +195,8 @@ Automated system for detecting helmetless bikers and capturing their number plat
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0f0f0f&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=3&width=100%"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:D4AF37&height=120&section=footer&text=Keep%20Coding%20!&fontSize=28&fontColor=FFD700" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer&text=Keep%20Coding%20!&fontSize=28&fontColor=FFD700" width="100%" />
 </div>

@@ -10,11 +10,17 @@
   <p align="center">
     <a href="https://linkedin.com/in/munjuluriveeresh12193"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="mailto:veereshmunjuluri1219@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://portfolio.12022004.xyz"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+    <a href="https://veereshkumar12.online"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/✨_PREMIUM_PROFILE-FFD700?style=for-the-badge&logoColor=black&labelColor=1a1a1a" alt="Premium Profile" />
   </p>
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
+</div>
 
 ### 💫 About Me
 I am a Software Engineer with strong foundations in programming, full-stack development, and system-level architecture. I focus on building scalable backend services, autonomous AI agents, and data-driven simulations.
@@ -25,7 +31,9 @@ I am a Software Engineer with strong foundations in programming, full-stack deve
 - ⚡ **Passionate about:** Delivering reliable, clean, and production-ready code
 - 📍 **Based in:** Hyderabad, Telangana, India.
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
+</div>
 
 ### 💻 Tech Stack
 
@@ -39,7 +47,9 @@ I am a Software Engineer with strong foundations in programming, full-stack deve
 | **Infrastructure & Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 | **Concepts & Architecture**| ![REST APIs](https://img.shields.io/badge/-REST_APIs-005571?style=flat-square) ![Microservices](https://img.shields.io/badge/-Microservices-E34F26?style=flat-square) ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square) ![OOP](https://img.shields.io/badge/-OOP-8A2BE2?style=flat-square) |
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
+</div>
 
 ### 🏗️ Typical System Architecture
 
@@ -66,7 +76,9 @@ graph LR
     class Supabase db
 ```
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
+</div>
 
 ### 🚀 Key Projects
 
@@ -90,14 +102,18 @@ graph LR
   **Tech:** Python, YOLO, OpenCV  
   [![View Source](https://img.shields.io/badge/GitHub-View_Source-181717?style=flat-square&logo=github)](https://github.com/VEERESH1219/Comprehensive-Automated-System-for-Helmetless-Biker-and-Number-Plate-Detection)
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
+</div>
 
 ### 📬 Let's Connect!
 *I'm always open to discussing system architecture, AI integrations, or exciting software engineering opportunities. Feel free to reach out!*
 
 **✉️ [Drop me an email!](mailto:veereshmunjuluri1219@gmail.com)** | **👔 [Connect on LinkedIn!](https://linkedin.com/in/munjuluriveeresh12193)**
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
+</div>
 
 ### 📊 GitHub Statistics & Engagement
 
@@ -117,7 +133,9 @@ graph LR
   </p>
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=100%" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer&text=Keep%20Coding%20!&fontSize=30" width="100%" />

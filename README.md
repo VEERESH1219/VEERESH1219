@@ -196,5 +196,5 @@ Automated system for detecting helmetless bikers and capturing their number plat
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=3&width=100%"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer&text=Keep%20Coding%20!&fontSize=28&fontColor=FFD700" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1a2e&height=120&section=footer&text=Keep%20Coding%20!&fontSize=28&fontColor=FFD700" width="100%" />
 </div>

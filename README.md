@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=230&section=header&text=Veeresh%20Kumar%20Munjuluri&fontSize=46&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Software+Engineer+%7C+AI+Agents+%26+Systems+Architecture&descAlignY=58&descSize=18&descColor=F5DEB3" width="100%"/>
-
-<img src="https://img.shields.io/badge/✨_PREMIUM_PROFILE-FFD700?style=for-the-badge&labelColor=0f0f0f&logoColor=black" alt="Premium Profile"/>
+# Veeresh Kumar Munjuluri
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Agents+%26+Simulations;Python+Backend+Specialist;Scalable+Systems+Architecture" alt="Typing SVG"/>
 
